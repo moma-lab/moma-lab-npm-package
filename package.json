@@ -1,0 +1,23 @@
+{
+  "name": "moma-lab-npm-test",
+  "version": "1.0.0",
+  "description": "A test package to try out publishing on npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moma-lab/moma-lab-npm-package.git"
+  },
+  "keywords": [
+    "moma.dev.lab",
+    "moma-lab"
+  ],
+  "author": "Alexander Moses <moma.dev.lab@gmail.com> (https://github.com/moma-lab)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moma-lab/moma-lab-npm-package/issues"
+  },
+  "homepage": "https://github.com/moma-lab/moma-lab-npm-package#readme"
+}
